@@ -1,4 +1,4 @@
-package com.Spring.Boot.Junit.Mockito.Fixture.Assesment.SpringBootJunitMockitoFixtureAssesment.model;
+package com.Spring.Boot.Junit.Mockito.Fixture.Assesment.MockitoFixtureAssesment.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

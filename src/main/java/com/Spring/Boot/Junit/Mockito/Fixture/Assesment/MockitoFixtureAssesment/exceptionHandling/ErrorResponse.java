@@ -1,4 +1,4 @@
-package com.Spring.Boot.Junit.Mockito.Fixture.Assesment.SpringBootJunitMockitoFixtureAssesment.exceptionHandling;
+package com.Spring.Boot.Junit.Mockito.Fixture.Assesment.MockitoFixtureAssesment.exceptionHandling;
 
 public class ErrorResponse {
     private int errorCode;

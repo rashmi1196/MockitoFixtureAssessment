@@ -1,9 +1,9 @@
-package com.Spring.Boot.Junit.Mockito.Fixture.Assesment.SpringBootJunitMockitoFixtureAssesment.controller;
+package com.Spring.Boot.Junit.Mockito.Fixture.Assesment.MockitoFixtureAssesment.controller;
 
 
-import com.Spring.Boot.Junit.Mockito.Fixture.Assesment.SpringBootJunitMockitoFixtureAssesment.exceptionHandling.MovieException;
-import com.Spring.Boot.Junit.Mockito.Fixture.Assesment.SpringBootJunitMockitoFixtureAssesment.model.Movie;
-import com.Spring.Boot.Junit.Mockito.Fixture.Assesment.SpringBootJunitMockitoFixtureAssesment.service.MovieService;
+import com.Spring.Boot.Junit.Mockito.Fixture.Assesment.MockitoFixtureAssesment.exceptionHandling.MovieException;
+import com.Spring.Boot.Junit.Mockito.Fixture.Assesment.MockitoFixtureAssesment.model.Movie;
+import com.Spring.Boot.Junit.Mockito.Fixture.Assesment.MockitoFixtureAssesment.service.MovieService;
 import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;

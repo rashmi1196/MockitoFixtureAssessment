@@ -1,4 +1,4 @@
-package com.Spring.Boot.Junit.Mockito.Fixture.Assesment.SpringBootJunitMockitoFixtureAssesment.exceptionHandling;
+package com.Spring.Boot.Junit.Mockito.Fixture.Assesment.MockitoFixtureAssesment.exceptionHandling;
 
 
 import org.springframework.http.HttpStatus;

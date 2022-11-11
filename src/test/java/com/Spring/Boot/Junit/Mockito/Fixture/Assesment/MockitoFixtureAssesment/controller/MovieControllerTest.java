@@ -1,8 +1,8 @@
-package com.Spring.Boot.Junit.Mockito.Fixture.Assesment.SpringBootJunitMockitoFixtureAssesment.controller;
+package com.Spring.Boot.Junit.Mockito.Fixture.Assesment.MockitoFixtureAssesment.controller;
 
 
-import com.Spring.Boot.Junit.Mockito.Fixture.Assesment.SpringBootJunitMockitoFixtureAssesment.MockitoFixtureAssessment;
-import com.Spring.Boot.Junit.Mockito.Fixture.Assesment.SpringBootJunitMockitoFixtureAssesment.model.Movie;
+import com.Spring.Boot.Junit.Mockito.Fixture.Assesment.MockitoFixtureAssesment.MockitoFixtureAssessment;
+import com.Spring.Boot.Junit.Mockito.Fixture.Assesment.MockitoFixtureAssesment.model.Movie;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.bson.types.ObjectId;
 import org.junit.Before;

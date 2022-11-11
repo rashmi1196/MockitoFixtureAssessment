@@ -1,7 +1,7 @@
-package com.Spring.Boot.Junit.Mockito.Fixture.Assesment.SpringBootJunitMockitoFixtureAssesment.service;
+package com.Spring.Boot.Junit.Mockito.Fixture.Assesment.MockitoFixtureAssesment.service;
 
-import com.Spring.Boot.Junit.Mockito.Fixture.Assesment.SpringBootJunitMockitoFixtureAssesment.model.Movie;
-import com.Spring.Boot.Junit.Mockito.Fixture.Assesment.SpringBootJunitMockitoFixtureAssesment.repository.MovieRepository;
+import com.Spring.Boot.Junit.Mockito.Fixture.Assesment.MockitoFixtureAssesment.model.Movie;
+import com.Spring.Boot.Junit.Mockito.Fixture.Assesment.MockitoFixtureAssesment.repository.MovieRepository;
 import org.bson.types.ObjectId;
 import org.junit.Before;
 import org.junit.Test;
